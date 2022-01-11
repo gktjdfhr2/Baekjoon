@@ -9,7 +9,7 @@ public class AminusB {
 		int a,b;
 		a = sc.nextInt();
 		b = sc.nextInt();
-		
+		//
 		System.out.println(a - b);
 	}
 }
