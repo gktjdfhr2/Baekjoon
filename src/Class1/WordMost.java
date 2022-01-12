@@ -28,7 +28,7 @@ public class WordMost {
 			else if(ALPHABET[i]==max) {
 				result = '?';
 			}
-			System.out.println((char)(i+65) + " = " + ALPHABET[i]);
+			/* System.out.println((char)(i+65) + " = " + ALPHABET[i]); */
 		}
 		System.out.println(result);
 		
