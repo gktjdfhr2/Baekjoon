@@ -7,8 +7,7 @@ public class maxNum {
 		Scanner sc = new Scanner(System.in);
 		int input;
 		int maxnum = 0;
-		int rank = 0;
-		
+		int rank = 0;		
 		
 		for(int i = 0; i <9; i++) {
 			input =sc.nextInt();
