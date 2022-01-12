@@ -40,7 +40,7 @@ public class Average {
 		}
 //		System.out.println("sum = " +sum);
 		avg = sum/x.length;
-		
+		scannerClose();
 		return avg;
 	}
 	
